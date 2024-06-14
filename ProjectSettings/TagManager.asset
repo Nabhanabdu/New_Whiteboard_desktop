@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Whiteboard
+  - Obstacles
+  - Marker
   layers:
   - Default
   - TransparentFX
